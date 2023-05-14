@@ -1,0 +1,32 @@
+# Fichiers spécifiques à IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Fichiers de build Maven
+target/
+build/
+.mvn/
+
+# Fichiers de configuration Spring Boot
+application*.yml
+application*.properties
+
+# Fichiers de logs
+logs/
+*.log
+
+# Fichiers temporaires
+temp/
+tmp/
+*.tmp
+
+# Fichiers de sauvegarde et de cache
+*.bak
+*.swp
+*.cache
+*.project
+*.classpath
+*.settings/

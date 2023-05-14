@@ -1,0 +1,4 @@
+actor-copy/
+application.properties
+**/application-dev.yaml
+**/application.yaml
